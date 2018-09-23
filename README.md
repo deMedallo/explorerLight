@@ -1,23 +1,18 @@
-# ETH Block Explorer based off github.com/etherparty/explorer
+# DM Block deMedallo based off github.com/etherparty/explorer
 
-![ETH Block Explorer Screenshot](https://i.imgur.com/8dPnAct.jpg)
+![DM Block deMedallo Screenshot](https://i.imgur.com/FHtPef2.jpg)
 
 ## Demo
-
-[https://explorer.ethorbit.com/](https://explorer.ethorbit.com/)
+...
 
 ## License
 
 The code in this branch is licensed under GPLv3 (see LICENSE file)
 Feel free to modify or reuse the code here.
 
-## Reddit
-
-Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/ethereum/comments/7lwft2/new_ethereum_block_explorer_updated_version_of/)
-
 ## Donations
 
-ETH Address: 0x1BDA9C6A37ECd91940df1E7559A8403ecE9806D1
+ETH Address: 0x0cb159875098ad4ee77b5c3d4f6de636c823235b
 
 ## Installation
 
