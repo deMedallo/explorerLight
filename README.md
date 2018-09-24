@@ -17,7 +17,7 @@ ETH Address: 0x0cb159875098ad4ee77b5c3d4f6de636c823235b
 ## Installation
 
 ```
-git clone https://github.com/sthnaqvi/explorer
+git clone https://github.com/deMedallo/explorerLight
 npm install
 bower install
 npm start
